@@ -4,7 +4,7 @@
 
 **Техническое решение**:
 - описание ML-части см. в [README.md](ml/README.md)
-- EDA датасетов оформлена в дашборд через streamlite (см. в [app](app/))
+- EDA датасетов оформлена в дашборд через streamlit (см. ветку streamlit + [app](app/))
 
 **Contributors**: 
 - Кузнецов Андрей: [github](https://github.com/kdduha), [telegram](https://t.me/kdduha)
