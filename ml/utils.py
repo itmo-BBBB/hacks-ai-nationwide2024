@@ -2,8 +2,6 @@ import pandas as pd
 import numpy as np
 import pytz
 
-from typing import Tuple
-
 
 def merge_tables(events: pd.DataFrame, targets: pd.DataFrame, videos: pd.DataFrame) -> pd.DataFrame:
     """
