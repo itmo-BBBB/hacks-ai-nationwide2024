@@ -2,7 +2,7 @@
 name = "hacks-ai-nationwide2024"
 version = "0.1.0"
 description = "Hackathon solution. Catboost classification."
-authors = ["Andrey Kuznetsov, Alexandr Goryachev, Sergey Senichev, Alla Dyachkova"]
+authors = ["Andrey Kuznetsov, Alexander Goryachev, Sergey Senichev, Alla Diachkova"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
