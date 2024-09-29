@@ -47,4 +47,4 @@ python build-catboost-test.py --test test_events.csv
 - Можно убрать те признаки, которые не вносят вклад в предсказание, но при этом заставляют тратить вычислительные мощности. Таковыми являются топ N низких признаков по feature importance в catboost
   **(например, месяц и год, т.к. они в данных у всех одинаковые)**
   
-Подобрав параметры и настроив модели, обучаем финальные варианты в [`catboost-train-main`](./notebooks/catboost-train-main.ipynb) и замеряемся на тестовых данных в [`catboost-test-main`](./notebooks/catboost-test-main.ipynb).
+Подобрав параметры и настроив модели, обучаем финальные варианты в [`catboost-train-main`](./notebooks/catboost-train-main.ipynb) и замеряемся на тестовых данных в [`catboost-test-main`](notebooks/catboost-test-main.ipynb).
